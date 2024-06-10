@@ -1,0 +1,15 @@
+ipykernel 
+openai
+langchain
+python-dotenv
+streamlit
+langchain_community
+langchain-openai
+wikipedia
+numexpr
+google-search-results
+unstructured
+faiss-cpu
+sentence-transformers
+pandas
+numpy
